@@ -1,0 +1,7 @@
+TODO:
+
++ create session 
++ send GET request 
+- Modify specific parts of url string
+- Utilize py.test fixtures
+
