@@ -2,6 +2,8 @@ TODO:
 
 + create session 
 + send GET request 
+- Get session id
 - Modify specific parts of url string
+- url encode the payload
 - Utilize py.test fixtures
 
